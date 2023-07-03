@@ -7,7 +7,7 @@ Outputs to normreevesAliases.txt (in same folder as script/.exe) in format for "
 =========
 string[] aliases = {"john.doe1@test.com", "john.doe2@test.com", "john.doe3@test.com", "john.doe4@test.com"};
 
-aliases.Contains(Person.PreferredName + '.' + Person.LastName)? "":Person.PreferredName + '.' + Person.UDField01;
+aliases.Contains(Person.PreferredName + '.' + Person.UDField01)? "":Person.PreferredName + '.' + Person.UDField01;
 
 Important to Note:
 =========
