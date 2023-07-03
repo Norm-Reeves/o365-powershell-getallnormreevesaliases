@@ -15,7 +15,7 @@ Important to Note:
 
 Download .exe
 =========
-
+https://github.com/Norm-Reeves/o365-powershell-getallnormreevesaliases/releases/download/v1.0/getAllO365NormReevesAliases.exe
 
 Change Log:
 ============
